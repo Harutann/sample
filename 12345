@@ -1,7 +1,3 @@
 <?php
-  echo berukokko-;
-  echo kakkoii;
-  echo yappari;
-  echo sonnnakotonai;
-  echo kamo;
+  echo "test";
 ?>
